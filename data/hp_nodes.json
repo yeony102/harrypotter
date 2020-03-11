@@ -1,0 +1,5096 @@
+[
+    [
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Adrian Pucey",
+            "id": "Adrian",
+            "desc": "Slytherin student two years above Harry, Quidditch Chaser."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Alicia Spinnet",
+            "id": "Alicia",
+            "desc": "Gryffindor Student two years above Harry, Quidditch Chaser and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 0,
+            "label": "Angelina Johnson",
+            "id": "Angelina",
+            "desc": "Gryffindor student two years above Harry, Quidditch Chaser and later Captain, married to George Weasley, mother of Fred II and Roxanne Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 4,
+            "label": "Arabella Figg",
+            "id": "Arabella",
+            "desc": "Squib neighbour of the Dursleys', member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Blaise Zabini",
+            "id": "Blaise",
+            "desc": "Slytherin student in Harry's year, friends with Draco Malfoy."
+        },
+        {
+            "sentiment": 0,
+            "importance": 22,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 20,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Cuthbert Binns",
+            "id": "Cuthbert",
+            "desc": "ghost, History of Magic professor."
+        },
+        {
+            "sentiment": 1,
+            "importance": 4,
+            "house": 4,
+            "label": "Dedalus Diggle",
+            "id": "Dedalus",
+            "desc": "Member of the Order of the Phoenix who took the Dursleys into hiding."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Dennis Creevey",
+            "id": "Dennis",
+            "desc": "Muggle-born Gryffindor student three years below Harry, brother of Colin Creevey, and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 118,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 137,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": 1,
+            "importance": 157,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 52,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 4,
+            "label": "Firenze",
+            "id": "Firenze",
+            "desc": "Centaur, part of the Forbidden Forest Centaur colony, professor of Divination at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 0,
+            "importance": 41,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 38,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 25,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Gellert Grindelwald",
+            "id": "Grindelwald",
+            "desc": "Dark Wizard, jailed since Albus Dumbledore defeated him in the 1940s, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 4,
+            "label": "Griphook",
+            "id": "Griphook",
+            "desc": "Goblin, works at Gringotts Bank which he helps Harry and his friends steal the cup from within the Lestrange vault."
+        },
+        {
+            "sentiment": 2,
+            "importance": 347,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": -2,
+            "importance": 1348,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": 2,
+            "importance": 268,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Irma Pince",
+            "id": "Irma",
+            "desc": "Hogwarts librarian."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 0,
+            "label": "James Potter",
+            "id": "James",
+            "desc": "Father of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Justin Finch-Fletchley",
+            "id": "Justin",
+            "desc": "Muggle-born Hufflepuff student in Harry's year, a member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 0,
+            "label": "Lily Potter",
+            "id": "Lily",
+            "desc": "n\u00e9e Evans; Mother of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 4,
+            "label": "Madam Malkin",
+            "id": "Malkin",
+            "desc": "Clothes shop owner at Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 14,
+            "house": 3,
+            "label": "Marcus Flint",
+            "id": "Marcus",
+            "desc": "Slytherin student five years above Harry, Quidditch Chaser and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 4,
+            "label": "Marge Dursley",
+            "id": "Marge",
+            "desc": "Margorie Dursly; Muggle sister of Vernon Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 101,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 118,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 0,
+            "importance": 53,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 2,
+            "label": "Garrick Ollivander",
+            "id": "Ollivander",
+            "desc": "Wandmaker, owner of the Ollivanders shop, kidnapped by the Malfoys for several months and later released by Harry, Ron, and Hermione."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 3,
+            "label": "Pansy Parkinson",
+            "id": "Pansy",
+            "desc": "Slytherin student in Harry's year, school prefect, a member of the Inquisitorial Squad, Draco Malfoy's girlfriend for some time."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 37,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": -1,
+            "importance": 76,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": -2,
+            "importance": 109,
+            "house": 2,
+            "label": "Quirinus Quirrell",
+            "id": "Quirrell",
+            "desc": "Defence Against the Dark Arts professor in Harry's first year, possessed by Lord Voldemort, and was killed in Philosopher's Stone."
+        },
+        {
+            "sentiment": 0,
+            "importance": 11,
+            "house": 4,
+            "label": "Rolanda Hooch",
+            "id": "Rolanda",
+            "desc": "Hogwarts flying instructor, Quidditch referee."
+        },
+        {
+            "sentiment": -1,
+            "importance": 435,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Sirius Black",
+            "id": "Sirius",
+            "desc": "Godfather of Harry Potter, member of the Order of the Phoenix and prisoner on the run. Killed by Bellatrix Lestrange in the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 161,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 1,
+            "label": "Susan Bones",
+            "id": "Susan",
+            "desc": "Hufflepuff student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Ted Tonks",
+            "id": "Ted",
+            "desc": "Muggle-born husband of Andromeda and father of Nymphadora Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 3,
+            "label": "Terence Higgs",
+            "id": "Terence",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, but soon replaced by Draco Malfoy."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Terry Boot",
+            "id": "Terry",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Tom",
+            "id": "Tom",
+            "desc": "landlord, innkeeper, and barman of the pub, Leaky Cauldron, in Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 146,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": -2,
+            "importance": 35,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        }
+    ],
+    [
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 3,
+            "label": "Adrian Pucey",
+            "id": "Adrian",
+            "desc": "Slytherin student two years above Harry, Quidditch Chaser."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 0,
+            "label": "Alicia Spinnet",
+            "id": "Alicia",
+            "desc": "Gryffindor Student two years above Harry, Quidditch Chaser and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 0,
+            "label": "Angelina Johnson",
+            "id": "Angelina",
+            "desc": "Gryffindor student two years above Harry, Quidditch Chaser and later Captain, married to George Weasley, mother of Fred II and Roxanne Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 63,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 52,
+            "house": 0,
+            "label": "Colin Creevey",
+            "id": "Colin",
+            "desc": "Muggle-born Gryffindor student one year below Harry, brother of Dennis Creevey, member of Dumbledore's Army, killed during the Battle of Hogwarts, after sneaking away from the younger evacuated students in the seventh book."
+        },
+        {
+            "sentiment": -1,
+            "importance": 14,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 33,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 4,
+            "label": "Cuthbert Binns",
+            "id": "Cuthbert",
+            "desc": "ghost, History of Magic professor."
+        },
+        {
+            "sentiment": 0,
+            "importance": 131,
+            "house": 4,
+            "label": "Dobby",
+            "id": "Dobby",
+            "desc": "House-elf originally belonging to the Malfoy family, which Harry helps set free, later became the only paid house-elf at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 164,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 32,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": -1,
+            "importance": 153,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 29,
+            "house": 1,
+            "label": "Ernie Macmillan",
+            "id": "Ernie",
+            "desc": "Hufflepuff student in Harry's year, school prefect, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 58,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 0,
+            "importance": 102,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 92,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 107,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 40,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 156,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": -2,
+            "importance": 1640,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": 1,
+            "importance": 318,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 4,
+            "label": "Irma Pince",
+            "id": "Irma",
+            "desc": "Hogwarts librarian."
+        },
+        {
+            "sentiment": 2,
+            "importance": 38,
+            "house": 1,
+            "label": "Justin Finch-Fletchley",
+            "id": "Justin",
+            "desc": "Muggle-born Hufflepuff student in Harry's year, a member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": 2,
+            "importance": 236,
+            "house": 2,
+            "label": "Gilderoy Lockhart",
+            "id": "Lockhart",
+            "desc": "Fraudulent celebrity author, Defence Against the Dark Arts teacher, lost his memory after a memory charm backfired and lived in St. Mungo's afterwards."
+        },
+        {
+            "sentiment": -1,
+            "importance": 66,
+            "house": 3,
+            "label": "Lucius Malfoy",
+            "id": "Lucius",
+            "desc": "Father of Draco Malfoy, an influential Death-Eater, and early in the series, governor of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Mafalda Hopkirk",
+            "id": "Mafalda",
+            "desc": "Witch who works in the Ministry of Magic, impersonated by Hermione Granger."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 3,
+            "label": "Marcus Flint",
+            "id": "Marcus",
+            "desc": "Slytherin student five years above Harry, Quidditch Chaser and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Marvolo Gaunt",
+            "id": "Marvolo",
+            "desc": "Pure-blood Father of Merope and Morfin Gaunt, grandfather of Tom Marvolo Riddle, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 93,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 3,
+            "label": "Millicent Bulstrode",
+            "id": "Millicent",
+            "desc": "Slytherin student in Harry's year, member of Umbridge's Inquisitorial Squad."
+        },
+        {
+            "sentiment": -1,
+            "importance": 62,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Mundungus Fletcher",
+            "id": "Mundungus",
+            "desc": "Son of Marvolo Gaunt, brother of Merope Gaunt, uncle of Tom Marvolo Riddle, framed by his nephew for Muggle killings, died in Azkaban."
+        },
+        {
+            "sentiment": -3,
+            "importance": 66,
+            "house": 2,
+            "label": "Myrtle Warren",
+            "id": "Myrtle",
+            "desc": "Moaning Myrtle; Muggle-born Ravenclaw student during Tom Marvolo Riddle's time at Hogwarts, killed by the Basilisk in a girl's bathroom, which she continues to haunt."
+        },
+        {
+            "sentiment": 0,
+            "importance": 31,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 24,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 0,
+            "importance": 49,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 2,
+            "label": "Penelope Clearwater",
+            "id": "Penelope",
+            "desc": "Ravenclaw student four years above Harry, Ravenclaw prefect, girlfriend of Percy Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 67,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Peter Pettigrew",
+            "id": "Pettigrew",
+            "desc": "Former school friend of James Potter, Sirius Black and Remus Lupin, Betrayed James and Lily Potter, Death Eater, an unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 26,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 29,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Rolanda Hooch",
+            "id": "Rolanda",
+            "desc": "Hogwarts flying instructor, Quidditch referee."
+        },
+        {
+            "sentiment": 0,
+            "importance": 708,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Aurora Sinistra",
+            "id": "Sinistra",
+            "desc": "Professor and member of the Astronomy Department at Hogwarts."
+        },
+        {
+            "sentiment": -2,
+            "importance": 100,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Terry Boot",
+            "id": "Terry",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 16,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": 0,
+            "importance": 41,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": 1,
+            "importance": 154,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        }
+    ],
+    [
+        {
+            "sentiment": -1,
+            "importance": 17,
+            "house": 0,
+            "label": "Alicia Spinnet",
+            "id": "Alicia",
+            "desc": "Gryffindor Student two years above Harry, Quidditch Chaser and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 20,
+            "house": 0,
+            "label": "Angelina Johnson",
+            "id": "Angelina",
+            "desc": "Gryffindor student two years above Harry, Quidditch Chaser and later Captain, married to George Weasley, mother of Fred II and Roxanne Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 39,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 1,
+            "importance": 89,
+            "house": 4,
+            "label": "Buckbeak",
+            "id": "Buckbeak",
+            "desc": "Hippogriff, later renamed Witherwings."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 1,
+            "label": "Cedric Diggory",
+            "id": "Cedric",
+            "desc": "Hufflepuff student two years above Harry, school prefect, Quidditch Seeker and Captain, co-winner of the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 15,
+            "house": 2,
+            "label": "Cho Chang",
+            "id": "Cho",
+            "desc": " Ravenclaw student one year above Harry, Quidditch Seeker, member of Dumbledore's Army and Harry's first love interest."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 0,
+            "label": "Colin Creevey",
+            "id": "Colin",
+            "desc": "Muggle-born Gryffindor student one year below Harry, brother of Dennis Creevey, member of Dumbledore's Army, killed during the Battle of Hogwarts, after sneaking away from the younger evacuated students in the seventh book."
+        },
+        {
+            "sentiment": 0,
+            "importance": 106,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 36,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 94,
+            "house": 4,
+            "label": "Crookshanks",
+            "id": "Crookshanks",
+            "desc": "Hermione Granger's pet cat, half-Kneazle."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Cuthbert Binns",
+            "id": "Cuthbert",
+            "desc": "ghost, History of Magic professor."
+        },
+        {
+            "sentiment": -2,
+            "importance": 164,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 1,
+            "importance": 25,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": 0,
+            "importance": 149,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Ernie Macmillan",
+            "id": "Ernie",
+            "desc": "Hufflepuff student in Harry's year, school prefect, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 22,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 22,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 0,
+            "importance": 77,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 65,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 15,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 35,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 2,
+            "importance": 252,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 2,
+            "importance": 1999,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 32,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": 0,
+            "importance": 635,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": -2,
+            "importance": 32,
+            "house": 0,
+            "label": "James Potter",
+            "id": "James",
+            "desc": "Father of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 28,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 11,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": -2,
+            "importance": 13,
+            "house": 0,
+            "label": "Lily Potter",
+            "id": "Lily",
+            "desc": "n\u00e9e Evans; Mother of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 3,
+            "label": "Lucius Malfoy",
+            "id": "Lucius",
+            "desc": "Father of Draco Malfoy, an influential Death-Eater, and early in the series, governor of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Madam Malkin",
+            "id": "Malkin",
+            "desc": "Clothes shop owner at Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 3,
+            "label": "Marcus Flint",
+            "id": "Marcus",
+            "desc": "Slytherin student five years above Harry, Quidditch Chaser and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 61,
+            "house": 4,
+            "label": "Marge Dursley",
+            "id": "Marge",
+            "desc": "Margorie Dursly; Muggle sister of Vernon Dursley."
+        },
+        {
+            "sentiment": -2,
+            "importance": 105,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 23,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 3,
+            "label": "Graham Montague",
+            "id": "Montague",
+            "desc": "Slytherin student one year above Harry, Quidditch Chaser, got trapped in a Vanishing Cabinet for 6 months."
+        },
+        {
+            "sentiment": 0,
+            "importance": 108,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 0,
+            "importance": 84,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 3,
+            "label": "Pansy Parkinson",
+            "id": "Pansy",
+            "desc": "Slytherin student in Harry's year, school prefect, a member of the Inquisitorial Squad, Draco Malfoy's girlfriend for some time."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 2,
+            "label": "Penelope Clearwater",
+            "id": "Penelope",
+            "desc": "Ravenclaw student four years above Harry, Ravenclaw prefect, girlfriend of Percy Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 68,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": -1,
+            "importance": 132,
+            "house": 0,
+            "label": "Peter Pettigrew",
+            "id": "Pettigrew",
+            "desc": "Former school friend of James Potter, Sirius Black and Remus Lupin, Betrayed James and Lily Potter, Death Eater, an unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 32,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 36,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": 0,
+            "importance": 29,
+            "house": 4,
+            "label": "Ernie Prang",
+            "id": "Prang",
+            "desc": "Elderly wizard, first encountered Harry in the Knight Bus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 413,
+            "house": 0,
+            "label": "Remus Lupin",
+            "id": "Remus",
+            "desc": "Gryffindor student before Harry's time, a friend of James Potter, werewolf, Professor of Defence Against the Dark Arts in Harry's third year, member of the Order of the Phoenix, killed in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Roger Davies",
+            "id": "Roger",
+            "desc": "Ravenclaw student two years above Harry, Quidditch Chaser and Captain, went to Yule Ball with Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 22,
+            "house": 4,
+            "label": "Rolanda Hooch",
+            "id": "Rolanda",
+            "desc": "Hogwarts flying instructor, Quidditch referee."
+        },
+        {
+            "sentiment": 1,
+            "importance": 747,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 23,
+            "house": 4,
+            "label": "Madam Rosmerta",
+            "id": "Rosmerta",
+            "desc": "Proprietor of the Three Broomsticks in Hogsmeade."
+        },
+        {
+            "sentiment": -1,
+            "importance": 17,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Septima Vector",
+            "id": "Septima",
+            "desc": "Arithmancy professor at Hogwarts."
+        },
+        {
+            "sentiment": 2,
+            "importance": 392,
+            "house": 0,
+            "label": "Sirius Black",
+            "id": "Sirius",
+            "desc": "Godfather of Harry Potter, member of the Order of the Phoenix and prisoner on the run. Killed by Bellatrix Lestrange in the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 260,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 52,
+            "house": 4,
+            "label": "Stanley Shunpike",
+            "id": "Stan",
+            "desc": "Conductor of the Knight Bus, later jailed in Azkaban on suspicions of being a Death Eater."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": 0,
+            "importance": 16,
+            "house": 4,
+            "label": "Tom",
+            "id": "Tom",
+            "desc": "landlord, innkeeper, and barman of the pub, Leaky Cauldron, in Diagon Alley."
+        },
+        {
+            "sentiment": -1,
+            "importance": 86,
+            "house": 2,
+            "label": "Sybill Trelawney",
+            "id": "Trelawney",
+            "desc": "Divination professor at Hogwarts, predicted the prophecy that prompted Lord Voldemort to go after the Potters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 77,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": -1,
+            "importance": 44,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        },
+        {
+            "sentiment": 0,
+            "importance": 14,
+            "house": 4,
+            "label": "Walden Macnair",
+            "id": "Walden",
+            "desc": "executioner of the Committee of Disposal of Dangerous Creatures, Death Eater, injured badly and possibly killed by Hagrid during the Battle of Hogwarts after being slammed into a wall."
+        }
+    ],
+    [
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Aberforth Dumbledore",
+            "id": "Aberforth",
+            "desc": "Brother of Albus and Ariana Dumbledore, owner of the Hog's Head."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Alice Longbottom",
+            "id": "Alice",
+            "desc": "Mother of Neville Longbottom, members of the original Order of the Phoenix, Aurors, tortured into insanity by Bellatrix LeStrange."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Alicia Spinnet",
+            "id": "Alicia",
+            "desc": "Gryffindor Student two years above Harry, Quidditch Chaser and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 69,
+            "house": 4,
+            "label": "Amos Diggory",
+            "id": "Amos",
+            "desc": "Father of Cedric Diggory, works for the Department for the Regulation and Control of Magical Creatures."
+        },
+        {
+            "sentiment": 0,
+            "importance": 11,
+            "house": 0,
+            "label": "Angelina Johnson",
+            "id": "Angelina",
+            "desc": "Gryffindor student two years above Harry, Quidditch Chaser and later Captain, married to George Weasley, mother of Fred II and Roxanne Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Antonin Dolohov",
+            "id": "Antonin",
+            "desc": "Death Eater who killed Fabian Prewett, Gideon Prewett, and Remus Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Arabella Figg",
+            "id": "Arabella",
+            "desc": "Squib neighbour of the Dursleys', member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 234,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Augustus Rookwood",
+            "id": "Augustus",
+            "desc": "Death Eater, spy working in the Department of Mysteries."
+        },
+        {
+            "sentiment": 0,
+            "importance": 38,
+            "house": 4,
+            "label": "Bertha Jorkins",
+            "id": "Bertha",
+            "desc": "Witch from the Ministry of Magic who was murdered by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 74,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 4,
+            "label": "Frank Bryce",
+            "id": "Bryce",
+            "desc": "Muggle gardener for the Riddle family, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 4,
+            "label": "Buckbeak",
+            "id": "Buckbeak",
+            "desc": "Hippogriff, later renamed Witherwings."
+        },
+        {
+            "sentiment": -1,
+            "importance": 272,
+            "house": 1,
+            "label": "Cedric Diggory",
+            "id": "Cedric",
+            "desc": "Hufflepuff student two years above Harry, school prefect, Quidditch Seeker and Captain, co-winner of the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 56,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 36,
+            "house": 2,
+            "label": "Cho Chang",
+            "id": "Cho",
+            "desc": " Ravenclaw student one year above Harry, Quidditch Seeker, member of Dumbledore's Army and Harry's first love interest."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 0,
+            "label": "Colin Creevey",
+            "id": "Colin",
+            "desc": "Muggle-born Gryffindor student one year below Harry, brother of Dennis Creevey, member of Dumbledore's Army, killed during the Battle of Hogwarts, after sneaking away from the younger evacuated students in the seventh book."
+        },
+        {
+            "sentiment": 1,
+            "importance": 92,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 36,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 4,
+            "label": "Crookshanks",
+            "id": "Crookshanks",
+            "desc": "Hermione Granger's pet cat, half-Kneazle."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 4,
+            "label": "Cuthbert Binns",
+            "id": "Cuthbert",
+            "desc": "ghost, History of Magic professor."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 0,
+            "label": "Dennis Creevey",
+            "id": "Dennis",
+            "desc": "Muggle-born Gryffindor student three years below Harry, brother of Colin Creevey, and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 142,
+            "house": 4,
+            "label": "Dobby",
+            "id": "Dobby",
+            "desc": "House-elf originally belonging to the Malfoy family, which Harry helps set free, later became the only paid house-elf at Hogwarts."
+        },
+        {
+            "sentiment": -1,
+            "importance": 119,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 1,
+            "importance": 55,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": 0,
+            "importance": 569,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 1,
+            "label": "Ernie Macmillan",
+            "id": "Ernie",
+            "desc": "Hufflepuff student in Harry's year, school prefect, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 44,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 87,
+            "house": 4,
+            "label": "Fleur Delacour",
+            "id": "Fleur",
+            "desc": "French student who participated in the Triwizard Tournament representing Beauxbatons, later married Bill Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 0,
+            "importance": 61,
+            "house": 0,
+            "label": "Frank Longbottom",
+            "id": "Frank",
+            "desc": "Father of Neville Longbottom, members of the original Order of the Phoenix, Aurors, tortured into insanity by Bellatrix LeStrange."
+        },
+        {
+            "sentiment": 1,
+            "importance": 188,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 4,
+            "label": "Gabrielle Delacour",
+            "id": "Gabrielle",
+            "desc": "younger sister of Fleur Delacour, saved by Harry in the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 162,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 45,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 39,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 2,
+            "importance": 365,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 5,
+            "importance": 3160,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 42,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": 4,
+            "importance": 852,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Irma Pince",
+            "id": "Irma",
+            "desc": "Hogwarts librarian."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "James Potter",
+            "id": "James",
+            "desc": "Father of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Justin Finch-Fletchley",
+            "id": "Justin",
+            "desc": "Muggle-born Hufflepuff student in Harry's year, a member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 143,
+            "house": 4,
+            "label": "Igor Karkaroff",
+            "id": "Karkaroff",
+            "desc": "Reformed Death Eater, Headmaster of Durmstrang."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 20,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Lily Potter",
+            "id": "Lily",
+            "desc": "n\u00e9e Evans; Mother of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 2,
+            "label": "Gilderoy Lockhart",
+            "id": "Lockhart",
+            "desc": "Fraudulent celebrity author, Defence Against the Dark Arts teacher, lost his memory after a memory charm backfired and lived in St. Mungo's afterwards."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 3,
+            "label": "Lucius Malfoy",
+            "id": "Lucius",
+            "desc": "Father of Draco Malfoy, an influential Death-Eater, and early in the series, governor of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 237,
+            "house": 4,
+            "label": "Ludovic Bagman",
+            "id": "Ludo",
+            "desc": "Head of the Department of Magical Games and Sports within the Ministry of Magic."
+        },
+        {
+            "sentiment": 0,
+            "importance": 98,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 137,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": -5,
+            "importance": 350,
+            "house": 4,
+            "label": "Alastor Moody",
+            "id": "Moody",
+            "desc": "Mad-Eye Moody; Retired Auror, member of the Order of the Phoenix, impersonated by Barty Crouch Jr. in 'The Goblet of Fire', killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Mundungus Fletcher",
+            "id": "Mundungus",
+            "desc": "Son of Marvolo Gaunt, brother of Merope Gaunt, uncle of Tom Marvolo Riddle, framed by his nephew for Muggle killings, died in Azkaban."
+        },
+        {
+            "sentiment": 0,
+            "importance": 27,
+            "house": 2,
+            "label": "Myrtle Warren",
+            "id": "Myrtle",
+            "desc": "Moaning Myrtle; Muggle-born Ravenclaw student during Tom Marvolo Riddle's time at Hogwarts, killed by the Basilisk in a girl's bathroom, which she continues to haunt."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 4,
+            "label": "Nagini",
+            "id": "Nagini",
+            "desc": "Lord Voldemort's giant pet snake, one of Voldemort's Horcruxes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 3,
+            "label": "Narcissa Malfoy",
+            "id": "Narcissa",
+            "desc": "n\u00e9e Black; Mother of Draco Malfoy, sister of Bellatrix Lestrange and Andromeda Tonks."
+        },
+        {
+            "sentiment": -1,
+            "importance": 79,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 16,
+            "house": 2,
+            "label": "Garrick Ollivander",
+            "id": "Ollivander",
+            "desc": "Wandmaker, owner of the Ollivanders shop, kidnapped by the Malfoys for several months and later released by Harry, Ron, and Hermione."
+        },
+        {
+            "sentiment": 0,
+            "importance": 98,
+            "house": 4,
+            "label": "Olympe Maxime",
+            "id": "Olympe",
+            "desc": "Half-giantess, Headmistress of Beauxbatons."
+        },
+        {
+            "sentiment": 1,
+            "importance": 14,
+            "house": 2,
+            "label": "Padma Patil",
+            "id": "Padma",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 1,
+            "importance": 16,
+            "house": 3,
+            "label": "Pansy Parkinson",
+            "id": "Pansy",
+            "desc": "Slytherin student in Harry's year, school prefect, a member of the Inquisitorial Squad, Draco Malfoy's girlfriend for some time."
+        },
+        {
+            "sentiment": 0,
+            "importance": 38,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 106,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Peter Pettigrew",
+            "id": "Pettigrew",
+            "desc": "Former school friend of James Potter, Sirius Black and Remus Lupin, Betrayed James and Lily Potter, Death Eater, an unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 42,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 25,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 0,
+            "label": "Remus Lupin",
+            "id": "Remus",
+            "desc": "Gryffindor student before Harry's time, a friend of James Potter, werewolf, Professor of Defence Against the Dark Arts in Harry's third year, member of the Order of the Phoenix, killed in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 96,
+            "house": 4,
+            "label": "Rita Skeeter",
+            "id": "Rita",
+            "desc": "Reporter for the Daily Prophet, author of The Life and Lies of Albus Dumbledore, unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 2,
+            "label": "Roger Davies",
+            "id": "Roger",
+            "desc": "Ravenclaw student two years above Harry, Quidditch Chaser and Captain, went to Yule Ball with Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1043,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 4,
+            "label": "Madam Rosmerta",
+            "id": "Rosmerta",
+            "desc": "Proprietor of the Three Broomsticks in Hogsmeade."
+        },
+        {
+            "sentiment": 0,
+            "importance": 29,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 4,
+            "label": "Septima Vector",
+            "id": "Septima",
+            "desc": "Arithmancy professor at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Aurora Sinistra",
+            "id": "Sinistra",
+            "desc": "Professor and member of the Astronomy Department at Hogwarts."
+        },
+        {
+            "sentiment": -1,
+            "importance": 219,
+            "house": 0,
+            "label": "Sirius Black",
+            "id": "Sirius",
+            "desc": "Godfather of Harry Potter, member of the Order of the Phoenix and prisoner on the run. Killed by Bellatrix Lestrange in the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 244,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Stanley Shunpike",
+            "id": "Stan",
+            "desc": "Conductor of the Knight Bus, later jailed in Azkaban on suspicions of being a Death Eater."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 3,
+            "label": "Theodore Nott",
+            "id": "Theodore",
+            "desc": "Slytherin student in Harry's year, one of the few students who can see Thestrals."
+        },
+        {
+            "sentiment": 0,
+            "importance": 26,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": -1,
+            "importance": 2,
+            "house": 4,
+            "label": "Travers",
+            "id": "Travers",
+            "desc": "wizard and a Death Eater. Escaped from Azkaban after Lord Voldemort's return."
+        },
+        {
+            "sentiment": 0,
+            "importance": 35,
+            "house": 2,
+            "label": "Sybill Trelawney",
+            "id": "Trelawney",
+            "desc": "Divination professor at Hogwarts, predicted the prophecy that prompted Lord Voldemort to go after the Potters."
+        },
+        {
+            "sentiment": -1,
+            "importance": 82,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 207,
+            "house": 4,
+            "label": "Viktor Krum",
+            "id": "Viktor",
+            "desc": "Bulgarian Quidditch seeker and Durmstrang student who participated in the Triwizard Tournament, dated Hermione for several months."
+        },
+        {
+            "sentiment": 0,
+            "importance": 219,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Walden Macnair",
+            "id": "Walden",
+            "desc": "executioner of the Committee of Disposal of Dangerous Creatures, Death Eater, injured badly and possibly killed by Hagrid during the Battle of Hogwarts after being slammed into a wall."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 4,
+            "label": "Wilhelmina Grubbly-Plank",
+            "id": "Wilhelmina",
+            "desc": "Substitute Care of Magical Creatures professor during Harry's fourth and fifth years."
+        }
+    ],
+    [
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Aberforth Dumbledore",
+            "id": "Aberforth",
+            "desc": "Brother of Albus and Ariana Dumbledore, owner of the Hog's Head."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 0,
+            "label": "Alice Longbottom",
+            "id": "Alice",
+            "desc": "Mother of Neville Longbottom, members of the original Order of the Phoenix, Aurors, tortured into insanity by Bellatrix LeStrange."
+        },
+        {
+            "sentiment": 0,
+            "importance": 30,
+            "house": 0,
+            "label": "Alicia Spinnet",
+            "id": "Alicia",
+            "desc": "Gryffindor Student two years above Harry, Quidditch Chaser and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 1,
+            "label": "Amelia Bones",
+            "id": "Amelia",
+            "desc": "Head of the Department of Magical Law Enforcement, aunt of Susan Bones, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 3,
+            "label": "Andromeda Tonks",
+            "id": "Andromeda",
+            "desc": "n\u00e9e Black; Sister of Bellatrix Lestrange and Narcissa Malfoy, disowned by her family for marrying Muggle-born  Tonks, mother of Nymphadora Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 88,
+            "house": 0,
+            "label": "Angelina Johnson",
+            "id": "Angelina",
+            "desc": "Gryffindor student two years above Harry, Quidditch Chaser and later Captain, married to George Weasley, mother of Fred II and Roxanne Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 2,
+            "label": "Anthony Goldstein",
+            "id": "Anthony",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 1,
+            "importance": 14,
+            "house": 4,
+            "label": "Antonin Dolohov",
+            "id": "Antonin",
+            "desc": "Death Eater who killed Fabian Prewett, Gideon Prewett, and Remus Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 40,
+            "house": 4,
+            "label": "Arabella Figg",
+            "id": "Arabella",
+            "desc": "Squib neighbour of the Dursleys', member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 194,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Augusta Longbottom",
+            "id": "Augusta",
+            "desc": "Mother of Frank Longbottom and grandmother of Neville Longbottom."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 4,
+            "label": "Augustus Rookwood",
+            "id": "Augustus",
+            "desc": "Death Eater, spy working in the Department of Mysteries."
+        },
+        {
+            "sentiment": 0,
+            "importance": 51,
+            "house": 3,
+            "label": "Bellatrix Lestrange",
+            "id": "Bellatrix",
+            "desc": "n\u00e9e Black, Cousin of Sirius Black, Death Eater who tortured Frank and Alice Longbottom into insanity, killed by Molly Weasley during the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 30,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Buckbeak",
+            "id": "Buckbeak",
+            "desc": "Hippogriff, later renamed Witherwings."
+        },
+        {
+            "sentiment": 0,
+            "importance": 45,
+            "house": 1,
+            "label": "Cedric Diggory",
+            "id": "Cedric",
+            "desc": "Hufflepuff student two years above Harry, school prefect, Quidditch Seeker and Captain, co-winner of the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 146,
+            "house": 2,
+            "label": "Cho Chang",
+            "id": "Cho",
+            "desc": " Ravenclaw student one year above Harry, Quidditch Seeker, member of Dumbledore's Army and Harry's first love interest."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 0,
+            "label": "Colin Creevey",
+            "id": "Colin",
+            "desc": "Muggle-born Gryffindor student one year below Harry, brother of Dennis Creevey, member of Dumbledore's Army, killed during the Battle of Hogwarts, after sneaking away from the younger evacuated students in the seventh book."
+        },
+        {
+            "sentiment": 0,
+            "importance": 183,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 37,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 29,
+            "house": 4,
+            "label": "Crookshanks",
+            "id": "Crookshanks",
+            "desc": "Hermione Granger's pet cat, half-Kneazle."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 4,
+            "label": "Cuthbert Binns",
+            "id": "Cuthbert",
+            "desc": "ghost, History of Magic professor."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 4,
+            "label": "John Dawlish",
+            "id": "Dawlish",
+            "desc": "Auror, worked for the Auror Office."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Dedalus Diggle",
+            "id": "Dedalus",
+            "desc": "Member of the Order of the Phoenix who took the Dursleys into hiding."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 0,
+            "label": "Dennis Creevey",
+            "id": "Dennis",
+            "desc": "Muggle-born Gryffindor student three years below Harry, brother of Colin Creevey, and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 1,
+            "importance": 50,
+            "house": 4,
+            "label": "Dobby",
+            "id": "Dobby",
+            "desc": "House-elf originally belonging to the Malfoy family, which Harry helps set free, later became the only paid house-elf at Hogwarts."
+        },
+        {
+            "sentiment": -1,
+            "importance": 177,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": -1,
+            "importance": 110,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": -1,
+            "importance": 605,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Elphias Doge",
+            "id": "Elphias",
+            "desc": "School friend of Albus Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Emmeline Vance",
+            "id": "Emmeline",
+            "desc": "A member of the party that brings Harry to Grimmauld Place, a member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 33,
+            "house": 1,
+            "label": "Ernie Macmillan",
+            "id": "Ernie",
+            "desc": "Hufflepuff student in Harry's year, school prefect, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 0,
+            "label": "Euan Abercrombie",
+            "id": "Euan",
+            "desc": "Gryffindor Student four years below Harry, believed in the Daily Prophet's smear campaign against Harry Potter"
+        },
+        {
+            "sentiment": 0,
+            "importance": 53,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 42,
+            "house": 4,
+            "label": "Firenze",
+            "id": "Firenze",
+            "desc": "Centaur, part of the Forbidden Forest Centaur colony, professor of Divination at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Fleur Delacour",
+            "id": "Fleur",
+            "desc": "French student who participated in the Triwizard Tournament representing Beauxbatons, later married Bill Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 28,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 0,
+            "importance": 321,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Gabrielle Delacour",
+            "id": "Gabrielle",
+            "desc": "younger sister of Fleur Delacour, saved by Harry in the Triwizard Tournament."
+        },
+        {
+            "sentiment": -1,
+            "importance": 286,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 220,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 39,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 4,
+            "label": "Griselda Marchbanks",
+            "id": "Griselda",
+            "desc": "Governor of the Wizarding Examinations Authority which ran the O.W.L, N.E.W.T., and W.O.M.B.A.T. exams, Wizengamot elder."
+        },
+        {
+            "sentiment": -1,
+            "importance": 429,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": -6,
+            "importance": 4158,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 61,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": -3,
+            "importance": 1286,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 4,
+            "label": "Irma Pince",
+            "id": "Irma",
+            "desc": "Hogwarts librarian."
+        },
+        {
+            "sentiment": 1,
+            "importance": 76,
+            "house": 0,
+            "label": "James Potter",
+            "id": "James",
+            "desc": "Father of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 1,
+            "label": "Justin Finch-Fletchley",
+            "id": "Justin",
+            "desc": "Muggle-born Hufflepuff student in Harry's year, a member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 34,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 46,
+            "house": 4,
+            "label": "Kingsley Shacklebolt",
+            "id": "Kingsley",
+            "desc": "Auror, replaces Pius Thicknesse as Minister for Magic, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 98,
+            "house": 4,
+            "label": "Kreacher",
+            "id": "Kreacher",
+            "desc": "House-elf belonging to the Black family, and later Harry Potter. Though at first preferring to serve the pureblood line, he eventually likes serving under Harry as he treats him better."
+        },
+        {
+            "sentiment": 0,
+            "importance": 30,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 31,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 11,
+            "house": 0,
+            "label": "Lily Potter",
+            "id": "Lily",
+            "desc": "n\u00e9e Evans; Mother of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 2,
+            "label": "Gilderoy Lockhart",
+            "id": "Lockhart",
+            "desc": "Fraudulent celebrity author, Defence Against the Dark Arts teacher, lost his memory after a memory charm backfired and lived in St. Mungo's afterwards."
+        },
+        {
+            "sentiment": 0,
+            "importance": 32,
+            "house": 3,
+            "label": "Lucius Malfoy",
+            "id": "Lucius",
+            "desc": "Father of Draco Malfoy, an influential Death-Eater, and early in the series, governor of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 139,
+            "house": 2,
+            "label": "Luna Lovegood",
+            "id": "Luna",
+            "desc": "Ravenclaw student one year below Harry, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Mafalda Hopkirk",
+            "id": "Mafalda",
+            "desc": "Witch who works in the Ministry of Magic, impersonated by Hermione Granger."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Marge Dursley",
+            "id": "Marge",
+            "desc": "Margorie Dursly; Muggle sister of Vernon Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 44,
+            "house": 2,
+            "label": "Marietta Edgecombe",
+            "id": "Marietta",
+            "desc": "Ravenclaw student one year above Harry, member of Dumbledore's Army's and also betrays Dumbledore's Army to Dolores Umbridge."
+        },
+        {
+            "sentiment": 1,
+            "importance": 192,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 14,
+            "house": 2,
+            "label": "Michael Corner",
+            "id": "Michael",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army, Ginny Weasley's first boyfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 3,
+            "label": "Millicent Bulstrode",
+            "id": "Millicent",
+            "desc": "Slytherin student in Harry's year, member of Umbridge's Inquisitorial Squad."
+        },
+        {
+            "sentiment": -1,
+            "importance": 226,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 26,
+            "house": 3,
+            "label": "Graham Montague",
+            "id": "Montague",
+            "desc": "Slytherin student one year above Harry, Quidditch Chaser, got trapped in a Vanishing Cabinet for 6 months."
+        },
+        {
+            "sentiment": 0,
+            "importance": 100,
+            "house": 4,
+            "label": "Alastor Moody",
+            "id": "Moody",
+            "desc": "Mad-Eye Moody; Retired Auror, member of the Order of the Phoenix, impersonated by Barty Crouch Jr. in 'The Goblet of Fire', killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 55,
+            "house": 4,
+            "label": "Mundungus Fletcher",
+            "id": "Mundungus",
+            "desc": "Son of Marvolo Gaunt, brother of Merope Gaunt, uncle of Tom Marvolo Riddle, framed by his nephew for Muggle killings, died in Azkaban."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 3,
+            "label": "Narcissa Malfoy",
+            "id": "Narcissa",
+            "desc": "n\u00e9e Black; Mother of Draco Malfoy, sister of Bellatrix Lestrange and Andromeda Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 277,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 0,
+            "importance": 100,
+            "house": 1,
+            "label": "Nymphadora Tonks",
+            "id": "Nymphadora",
+            "desc": "Daughter of Ted and Andromeda Tonks, Auror and member of the Order of the Phoenix. She marries Remus Lupin, and becomes the mother of Teddy Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Bob Ogden",
+            "id": "Ogden",
+            "desc": "Wizard in the Department of Magical Law Enforcement, led the Magical Law Enforcement Squad in the 1920s."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Olympe Maxime",
+            "id": "Olympe",
+            "desc": "Half-giantess, Headmistress of Beauxbatons."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 2,
+            "label": "Padma Patil",
+            "id": "Padma",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": -1,
+            "importance": 21,
+            "house": 3,
+            "label": "Pansy Parkinson",
+            "id": "Pansy",
+            "desc": "Slytherin student in Harry's year, school prefect, a member of the Inquisitorial Squad, Draco Malfoy's girlfriend for some time."
+        },
+        {
+            "sentiment": 0,
+            "importance": 45,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 1,
+            "importance": 60,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": 0,
+            "importance": 70,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 35,
+            "house": 3,
+            "label": "Phineas Nigellus Black",
+            "id": "Phineas",
+            "desc": "late great-great-grandfather of Sirius Black, aformer headmaster of Hogwarts whose painting hangs in the office and helps out the current headmaster."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 2,
+            "label": "Quirinus Quirrell",
+            "id": "Quirrell",
+            "desc": "Defence Against the Dark Arts professor in Harry's first year, possessed by Lord Voldemort, and was killed in Philosopher's Stone."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 3,
+            "label": "Rabastan Lestrange",
+            "id": "Rabastan",
+            "desc": "Death Eater, brother of Rodolphus Lestrange."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Regulus Black",
+            "id": "Regulus",
+            "desc": "younger brother of Sirius Black."
+        },
+        {
+            "sentiment": -2,
+            "importance": 167,
+            "house": 0,
+            "label": "Remus Lupin",
+            "id": "Remus",
+            "desc": "Gryffindor student before Harry's time, a friend of James Potter, werewolf, Professor of Defence Against the Dark Arts in Harry's third year, member of the Order of the Phoenix, killed in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 31,
+            "house": 4,
+            "label": "Rita Skeeter",
+            "id": "Rita",
+            "desc": "Reporter for the Daily Prophet, author of The Life and Lies of Albus Dumbledore, unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Rodolphus Lestrange",
+            "id": "Rodolphus",
+            "desc": "Death Eater, brother of Rabastan Lestrange, husband of Bellatrix Lestrange."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 2,
+            "label": "Roger Davies",
+            "id": "Roger",
+            "desc": "Ravenclaw student two years above Harry, Quidditch Chaser and Captain, went to Yule Ball with Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 4,
+            "label": "Rolanda Hooch",
+            "id": "Rolanda",
+            "desc": "Hogwarts flying instructor, Quidditch referee."
+        },
+        {
+            "sentiment": -2,
+            "importance": 1284,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Rufus Scrimgeour",
+            "id": "Rufus",
+            "desc": "Head of the Auror Office, replaces Cornelius Fudge as Minister for Magic, killed by Death Eaters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 60,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Septima Vector",
+            "id": "Septima",
+            "desc": "Arithmancy professor at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 4,
+            "label": "Aurora Sinistra",
+            "id": "Sinistra",
+            "desc": "Professor and member of the Astronomy Department at Hogwarts."
+        },
+        {
+            "sentiment": -2,
+            "importance": 596,
+            "house": 0,
+            "label": "Sirius Black",
+            "id": "Sirius",
+            "desc": "Godfather of Harry Potter, member of the Order of the Phoenix and prisoner on the run. Killed by Bellatrix Lestrange in the Order of the Phoenix."
+        },
+        {
+            "sentiment": 2,
+            "importance": 373,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 4,
+            "label": "Stanley Shunpike",
+            "id": "Stan",
+            "desc": "Conductor of the Knight Bus, later jailed in Azkaban on suspicions of being a Death Eater."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 4,
+            "label": "Sturgis Podmore",
+            "id": "Sturgis",
+            "desc": "Member of the Order of the Phoenix, imprisoned in Azkaban."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 1,
+            "label": "Susan Bones",
+            "id": "Susan",
+            "desc": "Hufflepuff student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Ted Tonks",
+            "id": "Ted",
+            "desc": "Muggle-born husband of Andromeda and father of Nymphadora Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 2,
+            "label": "Terry Boot",
+            "id": "Terry",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 3,
+            "label": "Theodore Nott",
+            "id": "Theodore",
+            "desc": "Slytherin student in Harry's year, one of the few students who can see Thestrals."
+        },
+        {
+            "sentiment": 0,
+            "importance": 50,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": 0,
+            "importance": 80,
+            "house": 2,
+            "label": "Sybill Trelawney",
+            "id": "Trelawney",
+            "desc": "Divination professor at Hogwarts, predicted the prophecy that prompted Lord Voldemort to go after the Potters."
+        },
+        {
+            "sentiment": 1,
+            "importance": 562,
+            "house": 3,
+            "label": "Dolores Umbridge",
+            "id": "Umbridge",
+            "desc": "Senior Undersecretary to the Minister for Magic, Defence Against the Dark Arts professor, Hogwarts High Inquisitor, Headmistress of Hogwarts, who enthusiastically joins in the persecution of half-bloods under Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 109,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Viktor Krum",
+            "id": "Viktor",
+            "desc": "Bulgarian Quidditch seeker and Durmstrang student who participated in the Triwizard Tournament, dated Hermione for several months."
+        },
+        {
+            "sentiment": -1,
+            "importance": 195,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 3,
+            "label": "Walburga Black",
+            "id": "Walburga",
+            "desc": "Married to her second cousin Orion Black, mother of Sirius and Regulus Black."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Walden Macnair",
+            "id": "Walden",
+            "desc": "executioner of the Committee of Disposal of Dangerous Creatures, Death Eater, injured badly and possibly killed by Hagrid during the Battle of Hogwarts after being slammed into a wall."
+        },
+        {
+            "sentiment": 0,
+            "importance": 42,
+            "house": 4,
+            "label": "Wilhelmina Grubbly-Plank",
+            "id": "Wilhelmina",
+            "desc": "Substitute Care of Magical Creatures professor during Harry's fourth and fifth years."
+        },
+        {
+            "sentiment": -1,
+            "importance": 28,
+            "house": 1,
+            "label": "Zacharias Smith",
+            "id": "Zacharias",
+            "desc": "Hufflepuff student probably either in Harry's year or one year belo, member of Dumbledore's Army."
+        }
+    ],
+    [
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Alecto Carrow",
+            "id": "Alecto",
+            "desc": "Sister of Amycus Carrow, Death Eater and professor of Muggle Studies for one year, Deputy Headmistress of Hogwarts under Severus Snape."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 1,
+            "label": "Amelia Bones",
+            "id": "Amelia",
+            "desc": "Head of the Department of Magical Law Enforcement, aunt of Susan Bones, killed by Voldemort."
+        },
+        {
+            "sentiment": 1,
+            "importance": 6,
+            "house": 4,
+            "label": "Amycus Carrow",
+            "id": "Amycus",
+            "desc": "Brother of Alecto Carrow, Death Eater and professor of Defence Against the Dark Arts for one year and Deputy Headmaster of Hogwarts under Severus Snape."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Antonin Dolohov",
+            "id": "Antonin",
+            "desc": "Death Eater who killed Fabian Prewett, Gideon Prewett, and Remus Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Arabella Figg",
+            "id": "Arabella",
+            "desc": "Squib neighbour of the Dursleys', member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 77,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Augusta Longbottom",
+            "id": "Augusta",
+            "desc": "Mother of Frank Longbottom and grandmother of Neville Longbottom."
+        },
+        {
+            "sentiment": 1,
+            "importance": 47,
+            "house": 3,
+            "label": "Bellatrix Lestrange",
+            "id": "Bellatrix",
+            "desc": "n\u00e9e Black, Cousin of Sirius Black, Death Eater who tortured Frank and Alice Longbottom into insanity, killed by Molly Weasley during the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 46,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 1,
+            "importance": 45,
+            "house": 0,
+            "label": "Blaise Zabini",
+            "id": "Blaise",
+            "desc": "Slytherin student in Harry's year, friends with Draco Malfoy."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Buckbeak",
+            "id": "Buckbeak",
+            "desc": "Hippogriff, later renamed Witherwings."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Cedric Diggory",
+            "id": "Cedric",
+            "desc": "Hufflepuff student two years above Harry, school prefect, Quidditch Seeker and Captain, co-winner of the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 2,
+            "label": "Cho Chang",
+            "id": "Cho",
+            "desc": " Ravenclaw student one year above Harry, Quidditch Seeker, member of Dumbledore's Army and Harry's first love interest."
+        },
+        {
+            "sentiment": 0,
+            "importance": 20,
+            "house": 4,
+            "label": "Mrs. Cole",
+            "id": "Cole",
+            "desc": "Matron of the orphanage where Tom Marvolo Riddle lived."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Colin Creevey",
+            "id": "Colin",
+            "desc": "Muggle-born Gryffindor student one year below Harry, brother of Dennis Creevey, member of Dumbledore's Army, killed during the Battle of Hogwarts, after sneaking away from the younger evacuated students in the seventh book."
+        },
+        {
+            "sentiment": 0,
+            "importance": 67,
+            "house": 0,
+            "label": "Cormac McLaggen",
+            "id": "Cormac",
+            "desc": "Gryffindor student one year above Harry Potter, in love with Hermione Granger member of the Slug Club and went with Hermione to the Slug Club Christmas Party."
+        },
+        {
+            "sentiment": 0,
+            "importance": 82,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 31,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 4,
+            "label": "Crookshanks",
+            "id": "Crookshanks",
+            "desc": "Hermione Granger's pet cat, half-Kneazle."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "John Dawlish",
+            "id": "Dawlish",
+            "desc": "Auror, worked for the Auror Office."
+        },
+        {
+            "sentiment": 0,
+            "importance": 15,
+            "house": 0,
+            "label": "Demelza Robins",
+            "id": "Demelza",
+            "desc": "Gryffindor student five years below Harry, Quidditch Chaser, and was noted to be particularly skilled at dodging Bludgers."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Dennis Creevey",
+            "id": "Dennis",
+            "desc": "Muggle-born Gryffindor student three years below Harry, brother of Colin Creevey, and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Dirk Cresswell",
+            "id": "Dirk",
+            "desc": "Muggle-born Head of the Goblin Liaison Office, went on the run in Deathly Hallows with fellow muggle-born Ted Tonks, Dean Thomas and goblins Gornuk and Griphook, killed while on the run."
+        },
+        {
+            "sentiment": 1,
+            "importance": 28,
+            "house": 4,
+            "label": "Dobby",
+            "id": "Dobby",
+            "desc": "House-elf originally belonging to the Malfoy family, which Harry helps set free, later became the only paid house-elf at Hogwarts."
+        },
+        {
+            "sentiment": -2,
+            "importance": 390,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": -2,
+            "importance": 993,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Emmeline Vance",
+            "id": "Emmeline",
+            "desc": "A member of the party that brings Harry to Grimmauld Place, a member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 1,
+            "label": "Ernie Macmillan",
+            "id": "Ernie",
+            "desc": "Hufflepuff student in Harry's year, school prefect, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 4,
+            "label": "Fenrir Greyback",
+            "id": "Fenrir",
+            "desc": "Werewolf working for the Death Eaters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 38,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 4,
+            "label": "Firenze",
+            "id": "Firenze",
+            "desc": "Centaur, part of the Forbidden Forest Centaur colony, professor of Divination at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 48,
+            "house": 4,
+            "label": "Fleur Delacour",
+            "id": "Fleur",
+            "desc": "French student who participated in the Triwizard Tournament representing Beauxbatons, later married Bill Weasley."
+        },
+        {
+            "sentiment": -1,
+            "importance": 20,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 1,
+            "importance": 74,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Gabrielle Delacour",
+            "id": "Gabrielle",
+            "desc": "younger sister of Fleur Delacour, saved by Harry in the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 63,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 1,
+            "importance": 229,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 31,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 0,
+            "importance": 208,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 8,
+            "importance": 2749,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": 0,
+            "importance": 24,
+            "house": 1,
+            "label": "Hepzibah Smith",
+            "id": "Hepzibah",
+            "desc": "Elderly, wealthy antique collector, descendant of Helga Hufflepuff, murdered and robbed by Tom Marvolo Riddle."
+        },
+        {
+            "sentiment": 0,
+            "importance": 683,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": 5,
+            "importance": 404,
+            "house": 3,
+            "label": "Horace Slughorn",
+            "id": "Horace",
+            "desc": "Former Potions professor at Hogwarts and Head of Slytherin House who taught Tom Marvolo Riddle and returns to Hogwarts in Harry's sixth year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 4,
+            "label": "Irma Pince",
+            "id": "Irma",
+            "desc": "Hogwarts librarian."
+        },
+        {
+            "sentiment": -1,
+            "importance": 7,
+            "house": 0,
+            "label": "James Potter",
+            "id": "James",
+            "desc": "Father of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Igor Karkaroff",
+            "id": "Karkaroff",
+            "desc": "Reformed Death Eater, Headmaster of Durmstrang."
+        },
+        {
+            "sentiment": 1,
+            "importance": 56,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 4,
+            "label": "Kingsley Shacklebolt",
+            "id": "Kingsley",
+            "desc": "Auror, replaces Pius Thicknesse as Minister for Magic, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 49,
+            "house": 4,
+            "label": "Kreacher",
+            "id": "Kreacher",
+            "desc": "House-elf belonging to the Black family, and later Harry Potter. Though at first preferring to serve the pureblood line, he eventually likes serving under Harry as he treats him better."
+        },
+        {
+            "sentiment": 0,
+            "importance": 54,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 0,
+            "label": "Lily Potter",
+            "id": "Lily",
+            "desc": "n\u00e9e Evans; Mother of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Gilderoy Lockhart",
+            "id": "Lockhart",
+            "desc": "Fraudulent celebrity author, Defence Against the Dark Arts teacher, lost his memory after a memory charm backfired and lived in St. Mungo's afterwards."
+        },
+        {
+            "sentiment": 0,
+            "importance": 22,
+            "house": 3,
+            "label": "Lucius Malfoy",
+            "id": "Lucius",
+            "desc": "Father of Draco Malfoy, an influential Death-Eater, and early in the series, governor of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 59,
+            "house": 2,
+            "label": "Luna Lovegood",
+            "id": "Luna",
+            "desc": "Ravenclaw student one year below Harry, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 14,
+            "house": 4,
+            "label": "Madam Malkin",
+            "id": "Malkin",
+            "desc": "Clothes shop owner at Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Marcus Flint",
+            "id": "Marcus",
+            "desc": "Slytherin student five years above Harry, Quidditch Chaser and Captain."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 2,
+            "label": "Marietta Edgecombe",
+            "id": "Marietta",
+            "desc": "Ravenclaw student one year above Harry, member of Dumbledore's Army's and also betrays Dumbledore's Army to Dolores Umbridge."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 4,
+            "label": "Marvolo Gaunt",
+            "id": "Marvolo",
+            "desc": "Pure-blood Father of Merope and Morfin Gaunt, grandfather of Tom Marvolo Riddle, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 83,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 31,
+            "house": 4,
+            "label": "Merope Riddle",
+            "id": "Merope",
+            "desc": "n\u00e9e Gaunt. The mother of Tom Marvolo Riddle/Lord Voldemort, died after childbirth."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 2,
+            "label": "Michael Corner",
+            "id": "Michael",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army, Ginny Weasley's first boyfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 137,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Graham Montague",
+            "id": "Montague",
+            "desc": "Slytherin student one year above Harry, Quidditch Chaser, got trapped in a Vanishing Cabinet for 6 months."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Alastor Moody",
+            "id": "Moody",
+            "desc": "Mad-Eye Moody; Retired Auror, member of the Order of the Phoenix, impersonated by Barty Crouch Jr. in 'The Goblet of Fire', killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 58,
+            "house": 4,
+            "label": "Morfin Gaunt",
+            "id": "Morfin",
+            "desc": "Son of Marvolo Gaunt, brother of Merope Gaunt, uncle of Tom Marvolo Riddle, Lor Voldemort, framed by his nephew for Muggle killings, died in Azkaban."
+        },
+        {
+            "sentiment": -1,
+            "importance": 19,
+            "house": 4,
+            "label": "Mundungus Fletcher",
+            "id": "Mundungus",
+            "desc": "Son of Marvolo Gaunt, brother of Merope Gaunt, uncle of Tom Marvolo Riddle, framed by his nephew for Muggle killings, died in Azkaban."
+        },
+        {
+            "sentiment": 0,
+            "importance": 16,
+            "house": 2,
+            "label": "Myrtle Warren",
+            "id": "Myrtle",
+            "desc": "Moaning Myrtle; Muggle-born Ravenclaw student during Tom Marvolo Riddle's time at Hogwarts, killed by the Basilisk in a girl's bathroom, which she continues to haunt."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Nagini",
+            "id": "Nagini",
+            "desc": "Lord Voldemort's giant pet snake, one of Voldemort's Horcruxes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 44,
+            "house": 3,
+            "label": "Narcissa Malfoy",
+            "id": "Narcissa",
+            "desc": "n\u00e9e Black; Mother of Draco Malfoy, sister of Bellatrix Lestrange and Andromeda Tonks."
+        },
+        {
+            "sentiment": -1,
+            "importance": 75,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 0,
+            "importance": 59,
+            "house": 1,
+            "label": "Nymphadora Tonks",
+            "id": "Nymphadora",
+            "desc": "Daughter of Ted and Andromeda Tonks, Auror and member of the Order of the Phoenix. She marries Remus Lupin, and becomes the mother of Teddy Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 66,
+            "house": 4,
+            "label": "Bob Ogden",
+            "id": "Ogden",
+            "desc": "Wizard in the Department of Magical Law Enforcement, led the Magical Law Enforcement Squad in the 1920s."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": -1,
+            "importance": 4,
+            "house": 2,
+            "label": "Garrick Ollivander",
+            "id": "Ollivander",
+            "desc": "Wandmaker, owner of the Ollivanders shop, kidnapped by the Malfoys for several months and later released by Harry, Ron, and Hermione."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Olympe Maxime",
+            "id": "Olympe",
+            "desc": "Half-giantess, Headmistress of Beauxbatons."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 2,
+            "label": "Padma Patil",
+            "id": "Padma",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 3,
+            "label": "Pansy Parkinson",
+            "id": "Pansy",
+            "desc": "Slytherin student in Harry's year, school prefect, a member of the Inquisitorial Squad, Draco Malfoy's girlfriend for some time."
+        },
+        {
+            "sentiment": 1,
+            "importance": 20,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 20,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Peter Pettigrew",
+            "id": "Pettigrew",
+            "desc": "Former school friend of James Potter, Sirius Black and Remus Lupin, Betrayed James and Lily Potter, Death Eater, an unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 3,
+            "label": "Phineas Nigellus Black",
+            "id": "Phineas",
+            "desc": "late great-great-grandfather of Sirius Black, aformer headmaster of Hogwarts whose painting hangs in the office and helps out the current headmaster."
+        },
+        {
+            "sentiment": -1,
+            "importance": 31,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Pomona Sprout",
+            "id": "Pomona",
+            "desc": "Hogwarts Herbology professor, Head of Hufflepuff house."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 2,
+            "label": "Quirinus Quirrell",
+            "id": "Quirrell",
+            "desc": "Defence Against the Dark Arts professor in Harry's first year, possessed by Lord Voldemort, and was killed in Philosopher's Stone."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Regulus Black",
+            "id": "Regulus",
+            "desc": "younger brother of Sirius Black."
+        },
+        {
+            "sentiment": 0,
+            "importance": 69,
+            "house": 0,
+            "label": "Remus Lupin",
+            "id": "Remus",
+            "desc": "Gryffindor student before Harry's time, a friend of James Potter, werewolf, Professor of Defence Against the Dark Arts in Harry's third year, member of the Order of the Phoenix, killed in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Rita Skeeter",
+            "id": "Rita",
+            "desc": "Reporter for the Daily Prophet, author of The Life and Lies of Albus Dumbledore, unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Rolanda Hooch",
+            "id": "Rolanda",
+            "desc": "Hogwarts flying instructor, Quidditch referee."
+        },
+        {
+            "sentiment": 0,
+            "importance": 16,
+            "house": 0,
+            "label": "Romilda Vane",
+            "id": "Romilda",
+            "desc": "Gryffindor student two years below Harry, tried to romance Harry with Chocolate Cauldrons containing a love potion from Weasley's Wizard Wheezes."
+        },
+        {
+            "sentiment": 3,
+            "importance": 866,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 20,
+            "house": 4,
+            "label": "Madam Rosmerta",
+            "id": "Rosmerta",
+            "desc": "Proprietor of the Three Broomsticks in Hogsmeade."
+        },
+        {
+            "sentiment": 0,
+            "importance": 79,
+            "house": 4,
+            "label": "Rufus Scrimgeour",
+            "id": "Rufus",
+            "desc": "Head of the Auror Office, replaces Cornelius Fudge as Minister for Magic, killed by Death Eaters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 25,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Septima Vector",
+            "id": "Septima",
+            "desc": "Arithmancy professor at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 49,
+            "house": 0,
+            "label": "Sirius Black",
+            "id": "Sirius",
+            "desc": "Godfather of Harry Potter, member of the Order of the Phoenix and prisoner on the run. Killed by Bellatrix Lestrange in the Order of the Phoenix."
+        },
+        {
+            "sentiment": -1,
+            "importance": 377,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 8,
+            "house": 4,
+            "label": "Stanley Shunpike",
+            "id": "Stan",
+            "desc": "Conductor of the Knight Bus, later jailed in Azkaban on suspicions of being a Death Eater."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 1,
+            "label": "Susan Bones",
+            "id": "Susan",
+            "desc": "Hufflepuff student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Terry Boot",
+            "id": "Terry",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 3,
+            "label": "Theodore Nott",
+            "id": "Theodore",
+            "desc": "Slytherin student in Harry's year, one of the few students who can see Thestrals."
+        },
+        {
+            "sentiment": 0,
+            "importance": 53,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 4,
+            "label": "Tom",
+            "id": "Tom",
+            "desc": "landlord, innkeeper, and barman of the pub, Leaky Cauldron, in Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 40,
+            "house": 2,
+            "label": "Sybill Trelawney",
+            "id": "Trelawney",
+            "desc": "Divination professor at Hogwarts, predicted the prophecy that prompted Lord Voldemort to go after the Potters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 3,
+            "label": "Dolores Umbridge",
+            "id": "Umbridge",
+            "desc": "Senior Undersecretary to the Minister for Magic, Defence Against the Dark Arts professor, Hogwarts High Inquisitor, Headmistress of Hogwarts, who enthusiastically joins in the persecution of half-bloods under Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 25,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 4,
+            "label": "Viktor Krum",
+            "id": "Viktor",
+            "desc": "Bulgarian Quidditch seeker and Durmstrang student who participated in the Triwizard Tournament, dated Hermione for several months."
+        },
+        {
+            "sentiment": -1,
+            "importance": 361,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Wilhelmina Grubbly-Plank",
+            "id": "Wilhelmina",
+            "desc": "Substitute Care of Magical Creatures professor during Harry's fourth and fifth years."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Wilkie Twycross",
+            "id": "Wilkie",
+            "desc": "apparition instructor in Harry Potter and the Half-Blood Prince. Works in the Department of Magical Transportation."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Corban Yaxley",
+            "id": "Yaxley",
+            "desc": "Death Eater, Head of Magical Law Enforcement under Voldemort's regime."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 1,
+            "label": "Zacharias Smith",
+            "id": "Zacharias",
+            "desc": "Hufflepuff student probably either in Harry's year or one year belo, member of Dumbledore's Army."
+        }
+    ],
+    [
+        {
+            "sentiment": -2,
+            "importance": 73,
+            "house": 0,
+            "label": "Aberforth Dumbledore",
+            "id": "Aberforth",
+            "desc": "Brother of Albus and Ariana Dumbledore, owner of the Hog's Head."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Alecto Carrow",
+            "id": "Alecto",
+            "desc": "Sister of Amycus Carrow, Death Eater and professor of Muggle Studies for one year, Deputy Headmistress of Hogwarts under Severus Snape."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Alicia Spinnet",
+            "id": "Alicia",
+            "desc": "Gryffindor Student two years above Harry, Quidditch Chaser and member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Amycus Carrow",
+            "id": "Amycus",
+            "desc": "Brother of Alecto Carrow, Death Eater and professor of Defence Against the Dark Arts for one year and Deputy Headmaster of Hogwarts under Severus Snape."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Andromeda Tonks",
+            "id": "Andromeda",
+            "desc": "n\u00e9e Black; Sister of Bellatrix Lestrange and Narcissa Malfoy, disowned by her family for marrying Muggle-born  Tonks, mother of Nymphadora Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Angelina Johnson",
+            "id": "Angelina",
+            "desc": "Gryffindor student two years above Harry, Quidditch Chaser and later Captain, married to George Weasley, mother of Fred II and Roxanne Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Anthony Goldstein",
+            "id": "Anthony",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 4,
+            "label": "Antonin Dolohov",
+            "id": "Antonin",
+            "desc": "Death Eater who killed Fabian Prewett, Gideon Prewett, and Remus Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Apolline Delacour",
+            "id": "Apolline",
+            "desc": "Half-Veela French witch, married to Monsieur Delacour, mother of Fleur and Gabrielle Delacour."
+        },
+        {
+            "sentiment": -1,
+            "importance": 86,
+            "house": 0,
+            "label": "Arthur Weasley",
+            "id": "Arthur",
+            "desc": "Muggle-obsessed Ministry of Magic employee. Husband of Molly Weasley, father of Bill, Charlie, Percy, Fred, George, Ron, and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Augusta Longbottom",
+            "id": "Augusta",
+            "desc": "Mother of Frank Longbottom and grandmother of Neville Longbottom."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Augustus Rookwood",
+            "id": "Augustus",
+            "desc": "Death Eater, spy working in the Department of Mysteries."
+        },
+        {
+            "sentiment": 0,
+            "importance": 99,
+            "house": 3,
+            "label": "Bellatrix Lestrange",
+            "id": "Bellatrix",
+            "desc": "n\u00e9e Black, Cousin of Sirius Black, Death Eater who tortured Frank and Alice Longbottom into insanity, killed by Molly Weasley during the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 119,
+            "house": 0,
+            "label": "Bill Weasley",
+            "id": "Bill",
+            "desc": "Oldest son of Arthur and Molly Weasley, Gringotts employee, marries Fleur Delacour."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Buckbeak",
+            "id": "Buckbeak",
+            "desc": "Hippogriff, later renamed Witherwings."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 1,
+            "label": "Cedric Diggory",
+            "id": "Cedric",
+            "desc": "Hufflepuff student two years above Harry, school prefect, Quidditch Seeker and Captain, co-winner of the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 9,
+            "house": 4,
+            "label": "Charity Burbage",
+            "id": "Charity",
+            "desc": "Professor of Muggle Studies at Hogwarts during Harry's time at school, later killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 15,
+            "house": 0,
+            "label": "Charlie Weasley",
+            "id": "Charlie",
+            "desc": "Second son of Arthur and Molly Weasley, and a member of the Order of the Phoenix, works with dragons in Romania."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 2,
+            "label": "Cho Chang",
+            "id": "Cho",
+            "desc": " Ravenclaw student one year above Harry, Quidditch Seeker, member of Dumbledore's Army and Harry's first love interest."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 0,
+            "label": "Colin Creevey",
+            "id": "Colin",
+            "desc": "Muggle-born Gryffindor student one year below Harry, brother of Dennis Creevey, member of Dumbledore's Army, killed during the Battle of Hogwarts, after sneaking away from the younger evacuated students in the seventh book."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Cornelius Fudge",
+            "id": "Cornelius",
+            "desc": "Minister for Magic in the first five books, sacked when he denied Lord Voldemort's return for a year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 30,
+            "house": 3,
+            "label": "Vincent Crabbe",
+            "id": "Crabbe",
+            "desc": "Slytherin student in Harry's year, son of Death Eater, Quidditch Beater, a member of the Inquisitorial Squad, a friend of Draco Malfoy, killed by his own spell in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Crookshanks",
+            "id": "Crookshanks",
+            "desc": "Hermione Granger's pet cat, half-Kneazle."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Cuthbert Binns",
+            "id": "Cuthbert",
+            "desc": "ghost, History of Magic professor."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "John Dawlish",
+            "id": "Dawlish",
+            "desc": "Auror, worked for the Auror Office."
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 4,
+            "label": "Dedalus Diggle",
+            "id": "Dedalus",
+            "desc": "Member of the Order of the Phoenix who took the Dursleys into hiding."
+        },
+        {
+            "sentiment": -1,
+            "importance": 22,
+            "house": 4,
+            "label": "Dirk Cresswell",
+            "id": "Dirk",
+            "desc": "Muggle-born Head of the Goblin Liaison Office, went on the run in Deathly Hallows with fellow muggle-born Ted Tonks, Dean Thomas and goblins Gornuk and Griphook, killed while on the run."
+        },
+        {
+            "sentiment": 0,
+            "importance": 35,
+            "house": 4,
+            "label": "Dobby",
+            "id": "Dobby",
+            "desc": "House-elf originally belonging to the Malfoy family, which Harry helps set free, later became the only paid house-elf at Hogwarts."
+        },
+        {
+            "sentiment": -1,
+            "importance": 89,
+            "house": 3,
+            "label": "Draco Malfoy",
+            "id": "Draco",
+            "desc": "Slytherin student in Harry's year, Quidditch Seeker, school prefect, member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 1,
+            "importance": 47,
+            "house": 4,
+            "label": "Dudley Dursley",
+            "id": "Dudley",
+            "desc": "Muggle, son of Vernon Dursley and Petunia Evans, first cousin of Harry Potter."
+        },
+        {
+            "sentiment": 0,
+            "importance": 606,
+            "house": 0,
+            "label": "Albus Dumbledore",
+            "id": "Dumbledore",
+            "desc": "Hogwarts Headmaster in Harry Potter's time, Transfiguration professor in Tom Riddle's time, founder of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 56,
+            "house": 4,
+            "label": "Elphias Doge",
+            "id": "Elphias",
+            "desc": "School friend of Albus Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 5,
+            "house": 1,
+            "label": "Ernie Macmillan",
+            "id": "Ernie",
+            "desc": "Hufflepuff student in Harry's year, school prefect, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 72,
+            "house": 4,
+            "label": "Fenrir Greyback",
+            "id": "Fenrir",
+            "desc": "Werewolf working for the Death Eaters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 4,
+            "label": "Argus Filch",
+            "id": "Filch",
+            "desc": "Squib, caretaker of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Firenze",
+            "id": "Firenze",
+            "desc": "Centaur, part of the Forbidden Forest Centaur colony, professor of Divination at Hogwarts."
+        },
+        {
+            "sentiment": 1,
+            "importance": 97,
+            "house": 4,
+            "label": "Fleur Delacour",
+            "id": "Fleur",
+            "desc": "French student who participated in the Triwizard Tournament representing Beauxbatons, later married Bill Weasley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 24,
+            "house": 2,
+            "label": "Filius Flitwick",
+            "id": "Flitwick",
+            "desc": "Charms professor at Hogwarts and Head of Ravenclaw."
+        },
+        {
+            "sentiment": 0,
+            "importance": 92,
+            "house": 0,
+            "label": "Fred Weasley",
+            "id": "Fred",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of George Weasley, a member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes, killed in an explosion caused by Augustus Rookwood in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 4,
+            "label": "Gabrielle Delacour",
+            "id": "Gabrielle",
+            "desc": "younger sister of Fleur Delacour, saved by Harry in the Triwizard Tournament."
+        },
+        {
+            "sentiment": 0,
+            "importance": 77,
+            "house": 0,
+            "label": "George Weasley",
+            "id": "George",
+            "desc": "Son of Arthur and Molly Weasley and identical twin brother of Fred Weasley, member of Dumbledore's Army, Gryffindor Student two years above Harry, Quidditch Beater, co-owner of Weasleys' Wizard Wheezes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 115,
+            "house": 0,
+            "label": "Ginny Weasley",
+            "id": "Ginny",
+            "desc": "Only daughter and youngest child of Arthur and Molly Weasley, Gryffindor student one year below Harry, Quidditch Seeker and Chaser, a member of Dumbledore's Army, and Harry Potter's wife."
+        },
+        {
+            "sentiment": 0,
+            "importance": 23,
+            "house": 3,
+            "label": "Gregory Goyle",
+            "id": "Goyle",
+            "desc": "Slytherin student in Harry's year, Quidditch Beater, a member of the Inquisitorial Squad."
+        },
+        {
+            "sentiment": 1,
+            "importance": 58,
+            "house": 4,
+            "label": "Gellert Grindelwald",
+            "id": "Grindelwald",
+            "desc": "Dark Wizard, jailed since Albus Dumbledore defeated him in the 1940s, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 120,
+            "house": 4,
+            "label": "Griphook",
+            "id": "Griphook",
+            "desc": "Goblin, works at Gringotts Bank which he helps Harry and his friends steal the cup from within the Lestrange vault."
+        },
+        {
+            "sentiment": 0,
+            "importance": 151,
+            "house": 0,
+            "label": "Rubeus Hagrid",
+            "id": "Hagrid",
+            "desc": "Half-giant Keeper of Keys and Grounds at Hogwarts, Care of Magical Creatures professor starting from Harry's third year, a member of the Order of the Phoenix. Once a Hogwarts student, Hagrid was expelled in his third year."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 1,
+            "label": "Hannah Abbott",
+            "id": "Hannah",
+            "desc": "Hufflepuff student in Harry Potter's year, prefect of Hufflepuff house in fifth year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": -13,
+            "importance": 3093,
+            "house": 0,
+            "label": "Harry Potter",
+            "id": "Harry",
+            "desc": "Only child and son of James and Lily Potter, Gryffindor student, Quidditch Seeker, the only person who survived from the Killing Curse of Voldemort,"
+        },
+        {
+            "sentiment": 0,
+            "importance": 18,
+            "house": 4,
+            "label": "Hedwig",
+            "id": "Hedwig",
+            "desc": "Harry Potter's pet owl."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 2,
+            "label": "Helena Ravenclaw",
+            "id": "Helena",
+            "desc": "The Grey Lady; Daughter of Rowena Ravenclaw, stole her mother's diadem and hid it, killed by the Bloody Baron and became Ravenclaw's house ghost."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Hepzibah Smith",
+            "id": "Hepzibah",
+            "desc": "Elderly, wealthy antique collector, descendant of Helga Hufflepuff, murdered and robbed by Tom Marvolo Riddle."
+        },
+        {
+            "sentiment": -2,
+            "importance": 1185,
+            "house": 0,
+            "label": "Hermione Granger",
+            "id": "Hermione",
+            "desc": "Muggle-born Gryffindor student in Harry's year, one of Harry's best friends, founder of Dumbledore's Army and S.P.E.W., Gryffindor Prefect."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 3,
+            "label": "Horace Slughorn",
+            "id": "Horace",
+            "desc": "Former Potions professor at Hogwarts and Head of Slytherin House who taught Tom Marvolo Riddle and returns to Hogwarts in Harry's sixth year."
+        },
+        {
+            "sentiment": -1,
+            "importance": 43,
+            "house": 0,
+            "label": "James Potter",
+            "id": "James",
+            "desc": "Father of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": 0,
+            "importance": 12,
+            "house": 0,
+            "label": "James Sirius Potter",
+            "id": "JamesSirius",
+            "desc": "The eldest child of Harry and Ginny Potter, brother of Albus Severus and Lily Luna Potter."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Igor Karkaroff",
+            "id": "Karkaroff",
+            "desc": "Reformed Death Eater, Headmaster of Durmstrang."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 0,
+            "label": "Katie Bell",
+            "id": "Katie",
+            "desc": "Gryffindor student one year above Harry Potter; Quidditch Chaser, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 1,
+            "importance": 47,
+            "house": 4,
+            "label": "Kingsley Shacklebolt",
+            "id": "Kingsley",
+            "desc": "Auror, replaces Pius Thicknesse as Minister for Magic, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 116,
+            "house": 4,
+            "label": "Kreacher",
+            "id": "Kreacher",
+            "desc": "House-elf belonging to the Black family, and later Harry Potter. Though at first preferring to serve the pureblood line, he eventually likes serving under Harry as he treats him better."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 0,
+            "label": "Lavender Brown",
+            "id": "Lavender",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Ron Weasley's first girlfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 17,
+            "house": 0,
+            "label": "Lee Jordan",
+            "id": "Lee",
+            "desc": "Gryffindor student two years above Harry, Quidditch commentator, good friend of Fred and George Weasley at Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 0,
+            "label": "Lily Luna Potter ",
+            "id": "LillyLuna",
+            "desc": "the youngest child and only daughter of Harry and Ginny Potter, sister of James Sirius and Albus Severus Potter."
+        },
+        {
+            "sentiment": -1,
+            "importance": 72,
+            "house": 0,
+            "label": "Lily Potter",
+            "id": "Lily",
+            "desc": "n\u00e9e Evans; Mother of Harry Potter, member of the Order of the Phoenix, murdered by Lord Voldemort before the series begins."
+        },
+        {
+            "sentiment": -1,
+            "importance": 59,
+            "house": 3,
+            "label": "Lucius Malfoy",
+            "id": "Lucius",
+            "desc": "Father of Draco Malfoy, an influential Death-Eater, and early in the series, governor of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 133,
+            "house": 2,
+            "label": "Luna Lovegood",
+            "id": "Luna",
+            "desc": "Ravenclaw student one year below Harry, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 13,
+            "house": 4,
+            "label": "Mafalda Hopkirk",
+            "id": "Mafalda",
+            "desc": "Witch who works in the Ministry of Magic, impersonated by Hermione Granger."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Madam Malkin",
+            "id": "Malkin",
+            "desc": "Clothes shop owner at Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 4,
+            "label": "Marvolo Gaunt",
+            "id": "Marvolo",
+            "desc": "Pure-blood Father of Merope and Morfin Gaunt, grandfather of Tom Marvolo Riddle, killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 74,
+            "house": 0,
+            "label": "Minerva McGonagall",
+            "id": "McGonagall",
+            "desc": "Hogwarts Transfiguration professor, Head of Gryffindor House, Deputy Headmistress of Hogwarts, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 7,
+            "house": 2,
+            "label": "Michael Corner",
+            "id": "Michael",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army, Ginny Weasley's first boyfriend."
+        },
+        {
+            "sentiment": 0,
+            "importance": 97,
+            "house": 0,
+            "label": "Molly Weasley",
+            "id": "Molly",
+            "desc": "n\u00e9e Prewett; Wife of Arthur Weasley, mother of Bill, Charlie, Percy, Fred, George, Ron and Ginny Weasley, member of the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 30,
+            "house": 4,
+            "label": "Alastor Moody",
+            "id": "Moody",
+            "desc": "Mad-Eye Moody; Retired Auror, member of the Order of the Phoenix, impersonated by Barty Crouch Jr. in 'The Goblet of Fire', killed by Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 49,
+            "house": 4,
+            "label": "Mundungus Fletcher",
+            "id": "Mundungus",
+            "desc": "Son of Marvolo Gaunt, brother of Merope Gaunt, uncle of Tom Marvolo Riddle, framed by his nephew for Muggle killings, died in Azkaban."
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 4,
+            "label": "Nagini",
+            "id": "Nagini",
+            "desc": "Lord Voldemort's giant pet snake, one of Voldemort's Horcruxes."
+        },
+        {
+            "sentiment": 0,
+            "importance": 21,
+            "house": 3,
+            "label": "Narcissa Malfoy",
+            "id": "Narcissa",
+            "desc": "n\u00e9e Black; Mother of Draco Malfoy, sister of Bellatrix Lestrange and Andromeda Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 87,
+            "house": 0,
+            "label": "Neville Longbottom",
+            "id": "Neville",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Mrs. Norris",
+            "id": "Norris",
+            "desc": "Argus Filch's pet cat."
+        },
+        {
+            "sentiment": 1,
+            "importance": 64,
+            "house": 1,
+            "label": "Nymphadora Tonks",
+            "id": "Nymphadora",
+            "desc": "Daughter of Ted and Andromeda Tonks, Auror and member of the Order of the Phoenix. She marries Remus Lupin, and becomes the mother of Teddy Lupin."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 0,
+            "label": "Oliver Wood",
+            "id": "Oliver",
+            "desc": "Gryffindor student four years above Harry, Quidditch Keeper and Captain."
+        },
+        {
+            "sentiment": -2,
+            "importance": 64,
+            "house": 2,
+            "label": "Garrick Ollivander",
+            "id": "Ollivander",
+            "desc": "Wandmaker, owner of the Ollivanders shop, kidnapped by the Malfoys for several months and later released by Harry, Ron, and Hermione."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 2,
+            "label": "Padma Patil",
+            "id": "Padma",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 3,
+            "label": "Pansy Parkinson",
+            "id": "Pansy",
+            "desc": "Slytherin student in Harry's year, school prefect, a member of the Inquisitorial Squad, Draco Malfoy's girlfriend for some time."
+        },
+        {
+            "sentiment": 0,
+            "importance": 3,
+            "house": 2,
+            "label": "Parvati Patil",
+            "id": "Parvati",
+            "desc": "Ravenclaw student in Harry's year, identical twin sister of Gryffindor Parvati Patil, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 30,
+            "house": 0,
+            "label": "Percy Weasley",
+            "id": "Percy",
+            "desc": "Third son of Arthur and Molly Weasley, Gryffindor student four years above Harry, Gryffindor prefect and Head Boy then Ministry of Magic employee, long estranged from his family before joining them against the Death Eaters in Deathly Hallows."
+        },
+        {
+            "sentiment": 0,
+            "importance": 11,
+            "house": 0,
+            "label": "Peter Pettigrew",
+            "id": "Pettigrew",
+            "desc": "Former school friend of James Potter, Sirius Black and Remus Lupin, Betrayed James and Lily Potter, Death Eater, an unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 46,
+            "house": 4,
+            "label": "Petunia Dursley",
+            "id": "Petunia",
+            "desc": "n\u00e9e Evans; Aunt of Harry Potter, sister of Lily Evans Potter, Married to Vernon Dursley and mother of Dudley Dursley."
+        },
+        {
+            "sentiment": 1,
+            "importance": 33,
+            "house": 3,
+            "label": "Phineas Nigellus Black",
+            "id": "Phineas",
+            "desc": "late great-great-grandfather of Sirius Black, aformer headmaster of Hogwarts whose painting hangs in the office and helps out the current headmaster."
+        },
+        {
+            "sentiment": 0,
+            "importance": 19,
+            "house": 4,
+            "label": "Pius Thicknesse",
+            "id": "Pius",
+            "desc": "Minister for Magic while under the Imperius Curse, later replaced by Kingsley Shacklebolt."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Poppy Pomfrey",
+            "id": "Pomfrey",
+            "desc": "Hogwarts school nurse."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 1,
+            "label": "Pomona Sprout",
+            "id": "Pomona",
+            "desc": "Hogwarts Herbology professor, Head of Hufflepuff house."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Quirinus Quirrell",
+            "id": "Quirrell",
+            "desc": "Defence Against the Dark Arts professor in Harry's first year, possessed by Lord Voldemort, and was killed in Philosopher's Stone."
+        },
+        {
+            "sentiment": 1,
+            "importance": 46,
+            "house": 3,
+            "label": "Regulus Black",
+            "id": "Regulus",
+            "desc": "younger brother of Sirius Black."
+        },
+        {
+            "sentiment": 0,
+            "importance": 174,
+            "house": 0,
+            "label": "Remus Lupin",
+            "id": "Remus",
+            "desc": "Gryffindor student before Harry's time, a friend of James Potter, werewolf, Professor of Defence Against the Dark Arts in Harry's third year, member of the Order of the Phoenix, killed in the Battle of Hogwarts."
+        },
+        {
+            "sentiment": 0,
+            "importance": 47,
+            "house": 4,
+            "label": "Rita Skeeter",
+            "id": "Rita",
+            "desc": "Reporter for the Daily Prophet, author of The Life and Lies of Albus Dumbledore, unregistered animagus."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 3,
+            "label": "Rodolphus Lestrange",
+            "id": "Rodolphus",
+            "desc": "Death Eater, brother of Rabastan Lestrange, husband of Bellatrix Lestrange."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 2,
+            "label": "Roger Davies",
+            "id": "Roger",
+            "desc": "Ravenclaw student two years above Harry, Quidditch Chaser and Captain, went to Yule Ball with Fleur Delacour."
+        },
+        {
+            "sentiment": -2,
+            "importance": 1122,
+            "house": 0,
+            "label": "Ron Weasley",
+            "id": "Ron",
+            "desc": "Best friends with Harry Potter and Hermione Granger, youngest Son of Arthur and Molly Weasley, Quidditch Keeper, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 0,
+            "importance": 64,
+            "house": 4,
+            "label": "Rufus Scrimgeour",
+            "id": "Rufus",
+            "desc": "Head of the Auror Office, replaces Cornelius Fudge as Minister for Magic, killed by Death Eaters."
+        },
+        {
+            "sentiment": 1,
+            "importance": 18,
+            "house": 4,
+            "label": "Albert Runcorn",
+            "id": "Runcorn",
+            "desc": "Ministry of Magic employee of high rank during the administration under Pius Thicknesse"
+        },
+        {
+            "sentiment": 2,
+            "importance": 12,
+            "house": 0,
+            "label": "Seamus Finnigan",
+            "id": "Seamus",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, best friend of Dean Thomas, Irish."
+        },
+        {
+            "sentiment": 0,
+            "importance": 65,
+            "house": 0,
+            "label": "Sirius Black",
+            "id": "Sirius",
+            "desc": "Godfather of Harry Potter, member of the Order of the Phoenix and prisoner on the run. Killed by Bellatrix Lestrange in the Order of the Phoenix."
+        },
+        {
+            "sentiment": 0,
+            "importance": 319,
+            "house": 3,
+            "label": "Severus Snape",
+            "id": "Snape",
+            "desc": "Potions and later Defence Against the Dark Arts professor at Hogwarts, Head of Slytherin House, member of both the Death Eaters and the Order of the Phoenix to spy for Dumbledore."
+        },
+        {
+            "sentiment": 0,
+            "importance": 10,
+            "house": 4,
+            "label": "Stanley Shunpike",
+            "id": "Stan",
+            "desc": "Conductor of the Knight Bus, later jailed in Azkaban on suspicions of being a Death Eater."
+        },
+        {
+            "sentiment": -3,
+            "importance": 37,
+            "house": 4,
+            "label": "Ted Tonks",
+            "id": "Ted",
+            "desc": "Muggle-born husband of Andromeda and father of Nymphadora Tonks."
+        },
+        {
+            "sentiment": 0,
+            "importance": 4,
+            "house": 2,
+            "label": "Terry Boot",
+            "id": "Terry",
+            "desc": "Ravenclaw student in Harry's year, member of Dumbledore's Army."
+        },
+        {
+            "sentiment": 2,
+            "importance": 39,
+            "house": 0,
+            "label": "Dean Thomas",
+            "id": "Thomas",
+            "desc": "Gryffindor student in Harry's year, member of Dumbledore's Army, Quidditch Chaser, briefly Ginny one of Weasley's boyfriends."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 4,
+            "label": "Thorfinn Rowle",
+            "id": "Thorfinn",
+            "desc": "Death Eater."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 4,
+            "label": "Tom",
+            "id": "Tom",
+            "desc": "landlord, innkeeper, and barman of the pub, Leaky Cauldron, in Diagon Alley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 38,
+            "house": 4,
+            "label": "Travers",
+            "id": "Travers",
+            "desc": "wizard and a Death Eater. Escaped from Azkaban after Lord Voldemort's return."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 2,
+            "label": "Sybill Trelawney",
+            "id": "Trelawney",
+            "desc": "Divination professor at Hogwarts, predicted the prophecy that prompted Lord Voldemort to go after the Potters."
+        },
+        {
+            "sentiment": 0,
+            "importance": 47,
+            "house": 3,
+            "label": "Dolores Umbridge",
+            "id": "Umbridge",
+            "desc": "Senior Undersecretary to the Minister for Magic, Defence Against the Dark Arts professor, Hogwarts High Inquisitor, Headmistress of Hogwarts, who enthusiastically joins in the persecution of half-bloods under Voldemort."
+        },
+        {
+            "sentiment": 0,
+            "importance": 50,
+            "house": 4,
+            "label": "Vernon Dursley",
+            "id": "Vernon",
+            "desc": "Muggle uncle of Harry Potter, married to his aunt Petunia and father of Dudley Dursley."
+        },
+        {
+            "sentiment": 0,
+            "importance": 37,
+            "house": 4,
+            "label": "Viktor Krum",
+            "id": "Viktor",
+            "desc": "Bulgarian Quidditch seeker and Durmstrang student who participated in the Triwizard Tournament, dated Hermione for several months."
+        },
+        {
+            "sentiment": -1,
+            "importance": 458,
+            "house": 3,
+            "label": "Lord Voldemort",
+            "id": "Voldemort",
+            "desc": "Tom Marvolo Riddle; the villain of the series, the murderer of Harry Potter's parents and many others in his quest for immortality and absolute power."
+        },
+        {
+            "sentiment": 0,
+            "importance": 6,
+            "house": 3,
+            "label": "Walburga Black",
+            "id": "Walburga",
+            "desc": "Married to her second cousin Orion Black, mother of Sirius and Regulus Black."
+        },
+        {
+            "sentiment": 0,
+            "importance": 1,
+            "house": 4,
+            "label": "Walden Macnair",
+            "id": "Walden",
+            "desc": "executioner of the Committee of Disposal of Dangerous Creatures, Death Eater, injured badly and possibly killed by Hagrid during the Battle of Hogwarts after being slammed into a wall."
+        },
+        {
+            "sentiment": 0,
+            "importance": 107,
+            "house": 2,
+            "label": "Xenophilius Lovegood",
+            "id": "Xenophilius",
+            "desc": "Father of Luna Lovegood, editor of The Quibbler."
+        },
+        {
+            "sentiment": 0,
+            "importance": 52,
+            "house": 4,
+            "label": "Corban Yaxley",
+            "id": "Yaxley",
+            "desc": "Death Eater, Head of Magical Law Enforcement under Voldemort's regime."
+        },
+        {
+            "sentiment": 0,
+            "importance": 2,
+            "house": 1,
+            "label": "Zacharias Smith",
+            "id": "Zacharias",
+            "desc": "Hufflepuff student probably either in Harry's year or one year belo, member of Dumbledore's Army."
+        }
+    ]
+]

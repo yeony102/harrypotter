@@ -1,0 +1,224 @@
+* {
+    font-family: 'Oswald', sans-serif;
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(135deg, #293139 0%, #0D0F12 100%);
+    /* height: vh; */
+    overflow: hidden;
+
+    font-weight: 200;
+    font-size: 18px;
+    color: white;
+
+    position: relative;
+
+}
+
+.bg-image {
+    position: absolute;
+    right: -130px;
+    top: -70px;
+    z-index: 0;
+}
+
+.bg-filter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3000px;
+    height: 3000px;
+    background-image: linear-gradient(-135deg, rgba(41,49,57, 0.7) 0%, rgba(13, 15, 18, 0.9) 100%);
+    border: 1px solid #979797;
+
+    z-index: 5;
+}
+
+.content {
+    /* position: absolute; */
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+
+    z-index: 10;
+}
+
+.navbar {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 30px;
+    background-color: transparent;
+}
+
+.back-container:hover {
+    cursor: pointer;
+}
+
+.back-btn {
+    display: inline-block;
+    background-color: transparent;
+    border: none;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+.back-btn:hover {
+    cursor: pointer;
+}
+
+.back-label-container {
+    display: inline-block;
+    height: 100%;
+    position: flex;
+    align-content: center;
+}
+
+.back-label {
+    
+    font-family: Oswald;
+    font-weight: 200;
+    font-size: 14px;
+    color: rgb(100, 100, 100);
+}
+
+.back-label:hover {
+    color: white;
+}
+
+.text-info, .sentiment-analysis {
+    position: relative;
+    width: 100%;
+    margin-top: 30px;
+    padding-left: 64px;
+
+}
+
+h1 {
+    font-family: Oswald;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.character-desc {
+    width: 490px;
+    font-family: Oswald;
+    font-weight: 200;
+    font-size: 18px;
+    color: rgb(150, 150, 150);
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.link-btn {
+    text-decoration: none;
+   
+    color: #BD82FF;
+}
+
+.sentiment-analysis {
+    padding-top: 100px;
+    height: 700px;
+}
+
+h2 {
+    font-weight: 200;
+    font-size: 28px;
+}
+
+.sentiment-graph {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 320px;
+    /* background-color: black; */
+    margin-top: 80px;
+}
+
+.y-axis {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    left: 0;
+    width: 100px;
+    height: 100%;
+    margin-left: 20px;
+    /* background-color: black; */
+}
+
+.y-axis-label {
+    color: rgb(150, 150, 150);
+}
+
+.x-axis {
+    position: relative;
+    margin-left: 20px;
+    /* background-color: black; */
+    width: 1400px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.axis-line-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    z-index: 10;
+}
+
+.axis-line {
+    position: relative;
+    background-color: rgb(60, 60, 60);
+    width: 100%;
+    height: 1px;
+    top: 160px;
+}
+
+.data-dot-area {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    /* background-color: black; */
+    z-index: 15;
+
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+}
+
+.data-dot-container {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 100%;
+    margin-right: 2px;
+}
+
+.data-dot {
+    position: relative;
+    top: 155px;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #DE2F6D;
+}
+
+#dot-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 14px;
+    opacity: 0;
+
+    z-index: 20;
+}

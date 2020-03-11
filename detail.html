@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Detail</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="detail.css" />
+</head>
+
+<body>
+    <div class="bg-image">
+        <img src="./images/detail/Harry.png">
+    </div>
+    <div class="bg-filter"></div>
+    <div class="content">
+        <nav class="navbar">
+            <div class="back-container">
+                <button class="back-btn">
+                    <svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <polyline id="Path-Copy" stroke="#FFFFFF" fill-rule="nonzero" points="11 0 1 10.7692308 11 20"></polyline>
+                        </g>
+                    </svg>
+                </button>
+                <div class="back-label-container">
+                    <div class="back-label">Back to Graph</div>
+                </div>
+            </div>
+        </nav>
+        <div class="text-info">
+            <h1>Harry Potter</h1>
+            <article class="character-desc">Only child and son of James and Lily Potter. Gryffindor Student, Quidditch
+                Seeker, the only person
+                who survivided from the Killing Curse of Voldemort.</article>
+            <a href="http://harrypotter.wikia.com/wiki/Harry_Potter" class="link-btn">Learn more</a>
+        </div>
+        <div class="sentiment-analysis">
+            <h2>Sentiment Analysis</h2>
+            <div class="sentiment-graph">
+                <div class="y-axis">
+                    <p class="y-axis-label">Positive</p>
+                    <p class="y-axis-label">Neutral</p>
+                    <p class="y-axis-label">Negative</p>
+                </div>
+                <div class="x-axis">
+                    <div class="axis-line-container">
+                        <div class="axis-line"></div>
+                    </div>
+                    <div class="data-dot-area">
+                        <div class="data-dot-container">
+                            <div class="data-dot"></div>
+                        </div>
+                        <div class="data-dot-container">
+                            <div class="data-dot"></div>
+                        </div>
+                        <div class="data-dot-container">
+                            <div class="data-dot"></div>
+                        </div>
+                        <div class="data-dot-container">
+                            <div class="data-dot"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="dot-label">Ron Weasley</div>
+        </div>
+    </div>
+
+</body>
+<script src="detail.js"></script>
+
+</html>

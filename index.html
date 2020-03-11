@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+
+    <title>Harry Potter Network</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+</head>
+
+<body>
+    <div id="network-page">
+        <div class="appbar">
+            <nav class="series-nav">
+                <div class="arrow" id="leftArrow">
+                    <svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <polyline id="prevNet" stroke="#FFFFFF" fill-rule="nonzero" points="6 0 1 5.38461538 6 10">
+                            </polyline>
+                        </g>
+                    </svg>
+                </div>
+                <div id="series-title">1. Harry Potter and the Sorcerer's Stone</div>
+                <div class="arrow" id="rightArrow">
+                    <svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <polyline id="nextNet" stroke="#FFFFFF" fill-rule="nonzero"
+                                transform="translate(3.500000, 5.000000) scale(-1, 1) translate(-3.500000, -5.000000) "
+                                points="6 0 1 5.38461538 6 10"></polyline>
+                        </g>
+                    </svg>
+                </div>
+            </nav>
+        </div>
+        <svg id="svg-graph" width="960" height="600"></svg>
+    </div>
+
+    <div id="detail-page" class="hidden">
+        <div class="bg-image">
+            <img id="detail-img" src="">
+        </div>
+        <div class="bg-filter"></div>
+        <div class="content">
+            <nav class="navbar">
+                <div id="goBack" class="back-container">
+                    <button class="back-btn">
+                        <svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+                                stroke-linecap="round" stroke-linejoin="round">
+                                <polyline id="Path-Copy" stroke="#FFFFFF" fill-rule="nonzero"
+                                    points="11 0 1 10.7692308 11 20"></polyline>
+                            </g>
+                        </svg>
+                    </button>
+                    <div class="back-label-container">
+                        <div class="back-label">Back to Graph</div>
+                    </div>
+                </div>
+            </nav>
+            <div class="text-info">
+                <h1 id="detail-name">Harry Potter</h1>
+                <article id="detail-desc">Only child and son of James and Lily Potter. Gryffindor Student,
+                    Quidditch
+                    Seeker, the only person
+                    who survivided from the Killing Curse of Voldemort.</article>
+                <a href="http://harrypotter.wikia.com/wiki/Harry_Potter" id="learn-more" class="link-btn">Learn more</a>
+            </div>
+            <div class="sentiment-analysis">
+                <h2>Sentiment Analysis</h2>
+                <div class="sentiment-graph">
+                    <div class="y-axis">
+                        <p class="y-axis-label">Positive</p>
+                        <p class="y-axis-label">Neutral</p>
+                        <p class="y-axis-label">Negative</p>
+                    </div>
+                    <div class="x-axis">
+                        <div class="axis-line-container">
+                            <div class="axis-line"></div>
+                        </div>
+                        <div id="dot-area" class="data-dot-area">
+                            <div class="data-dot-container">
+                                <div class="data-dot"></div>
+                            </div>
+                            <div class="data-dot-container">
+                                <div class="data-dot"></div>
+                            </div>
+                            <div class="data-dot-container">
+                                <div class="data-dot"></div>
+                            </div>
+                            <div class="data-dot-container">
+                                <div class="data-dot"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="dot-label">Ron Weasley</div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
