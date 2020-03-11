@@ -1,5 +1,6 @@
 # Harry Potter Network
 This project text-analyzed the Harry Potter book series and visualized the character relationships and the sentiment in their relationships into graphs.
+[Demo](http://yhl438.itp.io:4040/)
 
 ### Inspiration
 This project is inspired by [Network of Thrones](https://networkofthrones.wordpress.com/), where the authors analyzed the series of Game of Thrones and visualized the importance of its characters and their relationships in graphs.
@@ -35,7 +36,6 @@ The number of times one character's name is mentioned within 20 words from the o
 **Sentiment analysis result between two characters**
 The sum of the sentiment scores of 20-word long phrases that include both two characters' names.
 I did the text-analysis and the sentiment analysis using python + [SpaCy](https://spacy.io/).
-
 
 ### Resources
 * Raw text files of Harry Potter series 1 - 7
